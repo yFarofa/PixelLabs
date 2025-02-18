@@ -24,7 +24,7 @@ O objetivo final de completar a pokédex está mais próximo do que nunca!
 O modpack possui uma lista de Pokémons que podem ser selecionados como iniciais (além dos iniciais originais do jogo).\
 A lista de iniciais custom pode ser encontrar clicando >[aqui](STARTERS.md)<.
 
-## LuckyPixelmon [[PokeBlock Revamp](https://www.curseforge.com/minecraft/mc-mods/pokeblock-revamp)] ([Autor do mod](https://www.curseforge.com/members/tynstergaming/projects))
+## Lucky Pixelmon [[PokeBlock Revamp](https://www.curseforge.com/minecraft/mc-mods/pokeblock-revamp)] ([Autor do mod](https://www.curseforge.com/members/tynstergaming/projects))
 O mod [PokeBlock Revamp](https://www.curseforge.com/minecraft/mc-mods/pokeblock-revamp) foi o mod selecionado para disponibilizar a Lucky Pixelmon dentro desse modpack porém alguma mudanças significativas foram feitas no mod para tornar o seu uso viável:
 O bioma próprio do mod foi removido da geração de mundo por ser muito fácil de ser encontrado e possibilitar um "power spike"
 [^1]
