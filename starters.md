@@ -1,0 +1,26 @@
+## **Lista de inicias custom**
+
+- Ralts
+- Riolu
+- Gible
+- Deino
+- Larvitar
+- Bagon
+- Dratini
+- Pikachu
+- Eevee
+- Jangmo-o
+- Pancham
+- Machop
+- Zorua
+- Vulpix
+- Beldum
+- Shinx
+- Rhyhorn
+- Bounsweet
+- Axew
+- Trapinch
+- Toxel
+- Fletching
+- Gastly
+- Noibat
