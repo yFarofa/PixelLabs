@@ -84,7 +84,7 @@
 
 ![pikachu](https://github.com/user-attachments/assets/78bc2c9a-0838-49de-a30c-1841169abbba)
 
-- Ralt
+- Ralts
 
 ![ralts](https://github.com/user-attachments/assets/85366466-3481-4beb-86d6-d82de99c0bce)
 
