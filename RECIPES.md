@@ -4,7 +4,7 @@ Este documento lista todas as receitas personalizadas disponíveis no modpack **
 
 ---
 
-## 📋Tabela de Items:
+## 📋Tabela de Items
 | Item           | Descrição|
 |---------------------|--------------------|
 | Labium Ingot       | Compatível com Silent Gear|
