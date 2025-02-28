@@ -86,15 +86,15 @@ _(Os `<fluid>` e `<type>` representam os elementos: red, yellow, blue, green, pi
 - **Smithing**: Utilize a `Smithing Table` para combinar os itens indicados.
 - **Shapeless**: Combine os ingredientes em qualquer ordem na `Crafting Table`.
 - **Shaped**: Siga o formato correto na `Crafting Table`.
-- **Pressing**: Coloque o ingrediente indicado no "Mechanical Press" para obter o output.
-- **Cutting**: Coloque o ingrediente indicado no "Mechanical Saw" para obter o output.
-- **Mixing (Heated)**: Utilize um "Mechanical Mixer" aquecido para combinar os ingredientes e obter o output.
-- **Mixing (Superheated)**: Use um "Mechanical Mixer" >super< aquecido para criar a receita indicada.
-- **Emptying**: Combine o ingrediente indicado com um "Glass Bottle" para preencher o frasco com o fluido correspondente.
-- **Filling**: Use o "Spout" junto com o fluido na quantidade especificada para obter a essência do tipo desejado.
-- **Enriching**: Coloque os ingredientes na "Enrichment Chamber" para criar o output.
-- **Purifying**: Utilize a "Purification Chamber" para transformar os ingredientes em um item refinado.
-- **Smelter**: Coloque os ingredientes no "Induction Smelter" com a quantidade de energia especificada para fundir os itens.
+- **Pressing**: Coloque o ingrediente indicado no `Mechanical Press` para obter o output.
+- **Cutting**: Coloque o ingrediente indicado no `Mechanical Saw` para obter o output.
+- **Mixing (Heated)**: Utilize um `Mechanical Mixer` aquecido para combinar os ingredientes e obter o output.
+- **Mixing (Superheated)**: Use um `Mechanical Mixer` super aquecido para criar a receita indicada.
+- **Emptying**: Combine o ingrediente indicado com um `Glass Bottle` para preencher o frasco com o fluido correspondente.
+- **Filling**: Use o `Spout` junto com o fluido na quantidade especificada para obter a essência do tipo desejado.
+- **Enriching**: Coloque os ingredientes na `Enrichment Chamber` para criar o output.
+- **Purifying**: Utilize a `Purification Chamber` para transformar os ingredientes em um item refinado.
+- **Smelter**: Coloque os ingredientes no `Induction Smelter` com a quantidade de energia especificada para fundir os itens.
 
 ---
 
