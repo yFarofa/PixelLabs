@@ -71,14 +71,14 @@ A lista completa de iniciais personalizados pode ser encontrada aqui:
 O **[PokeBlock Revamp](https://www.curseforge.com/minecraft/mc-mods/pokeblock-revamp)** foi o mod escolhido para implementar a Lucky Pixelmon no modpack. No entanto, algumas mudanças foram feitas para tornar o seu uso mais equilibrado:  
 
 - **O bioma exclusivo do mod foi removido da geração natural**, pois era encontrado com muita facilidade e causava um desequilíbrio na progressão.
+
 ---
 
-## Receitas Customizada:
+# 📜 Custom Recipes & Items:
+
 > Confira abaixo as receitas e itens personalizados que compõem o modpack:
 
-### 📜 PixelLabs - Custom Recipes & Items
-
-#### Tabela de Itens
+## 📋Tabela de Items
 <table>
   <tr>
     <td><strong>Item</strong></td>
@@ -106,7 +106,7 @@ O **[PokeBlock Revamp](https://www.curseforge.com/minecraft/mc-mods/pokeblock-re
 </table>
 
 
-#### Tabela de Receitas
+## 📋 Tabela de Receitas
 <table>
   <thead>
     <tr>
@@ -205,9 +205,9 @@ O **[PokeBlock Revamp](https://www.curseforge.com/minecraft/mc-mods/pokeblock-re
   </tbody>
 </table>
 
-#### Receitas por Mod
+## 📋Receitas por mod  
 
-**Create**
+### **Create** 
 <table>
   <thead>
     <tr>
@@ -286,7 +286,7 @@ O **[PokeBlock Revamp](https://www.curseforge.com/minecraft/mc-mods/pokeblock-re
   </tbody>
 </table>
 
-**Mekanism**
+### **Mekanism**  
 <table>
   <thead>
     <tr>
@@ -310,7 +310,7 @@ O **[PokeBlock Revamp](https://www.curseforge.com/minecraft/mc-mods/pokeblock-re
 </table>
 
 
-**Thermal Expansion**
+### **Thermal Expansion**
 <table>
   <thead>
     <tr>
@@ -341,7 +341,7 @@ O **[PokeBlock Revamp](https://www.curseforge.com/minecraft/mc-mods/pokeblock-re
 </table>
 
 
-#### Como Usar?
+## 🛠️ Como Usar?
 
 - **Smithing**: Utilize a `Smithing Table` para combinar os itens indicados.
 - **Shapeless**: Combine os ingredientes em qualquer ordem na `Crafting Table`.
