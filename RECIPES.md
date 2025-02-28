@@ -1,9 +1,10 @@
 # 📜 PixelLabs - Custom Recipes & Items
 
 Este documento lista todas as receitas personalizadas disponíveis no modpack **PixelLabs**.
-## Custom Items
 
-### 📋Tabela de Items:
+---
+
+## 📋Tabela de Items:
 | Item           | Descrição|
 |---------------------|--------------------|
 | Labium Ingot       | Compatível com Silent Gear|
