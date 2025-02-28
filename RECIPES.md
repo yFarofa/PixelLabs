@@ -1,6 +1,16 @@
-# 📜 PixelLabs - Custom Recipes
+# 📜 PixelLabs - Custom Recipes & Items
 
 Este documento lista todas as receitas personalizadas disponíveis no modpack **PixelLabs**.
+## Custom Items
+
+### 📋Tabela de Items:
+| Item           | Descrição|
+|---------------------|--------------------|
+| Labium Ingot       | Compatível com Silent Gear|
+| Master Ball Lid    | Usado para craftar Master Balls|
+| Platinum Sheet     | Novo material de crafting|
+| Silver Sheet       | Outro novo material de crafting|
+| Tyrian Shadow Blend | Material especial com propriedades únicas|
 
 ---
 
