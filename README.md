@@ -286,6 +286,8 @@ O **[PokeBlock Revamp](https://www.curseforge.com/minecraft/mc-mods/pokeblock-re
   </tbody>
 </table>
 
+_(Os `<fluid>` e `<type>` representam os elementos: red, yellow, blue, green, pink, purple para sucos e water, fire, grass, electric, psychic para essências.)_
+
 ### **Mekanism**  
 <table>
   <thead>
