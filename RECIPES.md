@@ -42,9 +42,60 @@ Este documento lista todas as receitas personalizadas disponíveis no modpack **
 
 ---
 
+## 📋Receitas por mod  
+
+### **Create**  
+| Tipo                    | Output                           | Ingredientes |
+|-------------------------|----------------------------------|--------------|
+| **Pressing**            | `pixelmon:aluminium_plate`       | `#forge:ingots/aluminum` |
+|                         | `kubejs:silver_sheet`           | `#forge:ingots/silver` |
+|                         | `kubejs:platinum_sheet`         | `#forge:ingots/platinum` |
+| **Cutting**             | `2x pixelmon:aluminum_base`     | `pixelmon:aluminium_plate` |
+|                         | `2x pixelmon:silver_base`       | `kubejs:silver_sheet` |
+|                         | `2x pixelmon:platinum_base`     | `kubejs:platinum_sheet` |
+|                         | `2x pixelmon:iron_base`         | `create:iron_sheet` |
+| **Mixing (Heated)**     | `minecraft:nether_star`         | `4x pixelmon:star_piece` |
+|                         | `createpixelmon:legendary_essence` | `createpixelmon:water_essence`, `createpixelmon:fire_essence`, `createpixelmon:grass_essence`, `createpixelmon:electric_essence`, `createpixelmon:psychic_essence` |
+| **Mixing (Superheated)**| `kubejs:tyrian_shadow_blend`    | `2x silentgear:tyrian_steel_ingot`, `create:shadow_steel` |
+| **Emptying**            | `minecraft:glass_bottle` + `createpixelmon:<fluid>juice_fluid` | `pixelmon:<fluid>_juice` |
+| **Filling**             | `createpixelmon:<type>_essence` | `Fluid.of(createpixelmon:<color>juice_fluid, 200)`, `createpixelmon:normal_essence` |
+
+_(Os `<fluid>` e `<type>` representam os elementos: red, yellow, blue, green, pink, purple para sucos e water, fire, grass, electric, psychic para essências.)_
+
+---
+
+### **Mekanism**  
+| Tipo       | Output                     | Ingredientes |
+|------------|---------------------------|--------------|
+| **Enriching** | `kubejs:labium_ingot` | `kubejs:tyrian_shadow_blend` |
+| **Purifying** | `ars_nouveau:carbuncle_shards` | `pixelmon:raw_tumblestone` + `mekanism:oxygen (amount: 1)` |
+
+---
+
+### **Thermal Expansion**  
+| Tipo       | Output                     | Ingredientes |
+|------------|---------------------------|--------------|
+| **Smelter** | `pixelmon:gold_bottle_cap` | `potionsmaster:calcinatedgold_powder`, `6x createpixelmon:legendary_essence` (Energia necessária: 120000 RF/FE) |
+|  | `pixelmon:silver_bottle_cap` | `potionsmaster:calcinatedsilver_powder`, `createpixelmon:legendary_essence` (Energia necessária: 20000 RF/FE) |
+|  | `mekanism:ingot_steel`     | `2x minecraft:coal`, `minecraft:iron_ingot` (Energia necessária: 1000 RF/FE) |
+
+---
+
 ## 🛠️ Como Usar?
+
 - **Smithing**: Utilize a `Smithing Table` para combinar os itens indicados.
 - **Shapeless**: Combine os ingredientes em qualquer ordem na `Crafting Table`.
 - **Shaped**: Siga o formato correto na `Crafting Table`.
+- **Pressing**: Coloque o ingrediente indicado no "Mechanical Press" para obter o output.
+- **Cutting**: Coloque o ingrediente indicado no "Mechanical Saw" para obter o output.
+- **Mixing (Heated)**: Utilize um "Mechanical Mixer" aquecido para combinar os ingredientes e obter o output.
+- **Mixing (Superheated)**: Use um "Mechanical Mixer" >super< aquecido para criar a receita indicada.
+- **Emptying**: Combine o ingrediente indicado com um "Glass Bottle" para preencher o frasco com o fluido correspondente.
+- **Filling**: Use o "Spout" junto com o fluido na quantidade especificada para obter a essência do tipo desejado.
+- **Enriching**: Coloque os ingredientes na "Enrichment Chamber" para criar o output.
+- **Purifying**: Utilize a "Purification Chamber" para transformar os ingredientes em um item refinado.
+- **Smelter**: Coloque os ingredientes no "Induction Smelter" com a quantidade de energia especificada para fundir os itens.
+
+---
 
 Este documento será atualizado conforme novas receitas forem adicionadas ao modpack.
